@@ -16,13 +16,13 @@ Link do back:
 A aplicação foi criada com react. Para funcionar a aplicação.<br/>
 1° passo:
 <br/>
-```
+```bash
 git clone https://github.com/silasms/front-registration
 ```
 <br/>
 2° passo:
 <br/>
-```
+```bash
 npm start
 ```
 <br/>
@@ -30,5 +30,5 @@ Simplesmente assim e a sua aplicação já está rodando.
 
 <h2>Instruções:</h2><br/>
 Existem duas rotas.<br/>
-/login <- Tela de login
+/login <- Tela de login <br/>
 /signup <- Tela de registro
