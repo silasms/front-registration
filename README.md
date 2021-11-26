@@ -11,3 +11,24 @@ Página de registro:<br/>
 Para o sistema funcionar, precisa executar o back.
 Link do back:
 <a href="https://github.com/silasms/back-registration">Link para o back</a>
+<br/>
+<h2>Instalação</h2><br/>
+A aplicação foi criada com react. Para funcionar a aplicação.<br/>
+1° passo:
+<br/>
+```
+git clone https://github.com/silasms/front-registration
+```
+<br/>
+2° passo:
+<br/>
+```
+npm start
+```
+<br/>
+Simplesmente assim e a sua aplicação já está rodando.
+
+<h2>Instruções:</h2><br/>
+Existem duas rotas.<br/>
+/login <- Tela de login
+/signup <- Tela de registro
