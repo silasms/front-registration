@@ -6,7 +6,7 @@ Página de login:
 
 
 Página de registro:
-<img src="https://imgur.com/g0GVvl0" alt="signup">
+<img src="https://i.imgur.com/g0GVvl0.png" alt="signup">
 
 Para o sistema funcionar, precisa executar o back.
 Link do back:
